@@ -57,7 +57,7 @@ function LeftPart() {
                     <div className="container m-1" style={{ width: '200px' }}>
 
                         <a data-bs-toggle="modal" data-bs-target="#exampleModal">
-                            <img src="/img/2.jpg" className="img-fluid img-hover rounded-circle" style={{ border: '#061A40 solid 3px' }} alt="" />
+                            <img src="/src/assets/img/2.jpg" className="img-fluid img-hover rounded-circle" style={{ border: '#061A40 solid 3px' }} alt="" />
                         </a>
 
                     </div>
@@ -66,27 +66,27 @@ function LeftPart() {
                     </div>
                     <div className="container p-4 fs-5" id="myLinksContainer">
                         <p className="text-start">
-                            <img src="/img/graduate.gif" style={{ maxWidth: '40px', minWidth: '30px' }} alt="" />
+                            <img src="/src/assets/img/graduate.gif" style={{ maxWidth: '40px', minWidth: '30px' }} alt="" />
                             <span>Bartın University(Computer Engineering)</span>
                         </p>
                         <p className="text-start">
-                            <img src="/img/calendar.gif" style={{ maxWidth: '40px', minWidth: '30px' }} alt="" />
+                            <img src="/src/assets/img/calendar.gif" style={{ maxWidth: '40px', minWidth: '30px' }} alt="" />
                             <span>{calculateAge()} Years Old</span>
                         </p>
                         <p className="text-start">
-                            <img src="/img/mail.gif" style={{ maxWidth: '40px', minWidth: '30px' }} alt="" />
+                            <img src="/src/assets/img/mail.gif" style={{ maxWidth: '40px', minWidth: '30px' }} alt="" />
                             <a href="mailto:ahmet_furkan_sayan@hotmail.com">Contact Me</a>
                         </p>
                         <p className="text-start">
-                            <img src="/img/github.gif" style={{ maxWidth: '40px', minWidth: '30px' }} alt="" />
+                            <img src="/src/assets/img/github.gif" style={{ maxWidth: '40px', minWidth: '30px' }} alt="" />
                             <a href="https://www.instagram.com/ahmetf_syn">@ImeraFera</a>
                         </p>
                         <p className="text-start">
-                            <img src="/img/instagram.gif" style={{ maxWidth: '40px', minWidth: '30px' }} alt="" />
+                            <img src="/src/assets/img/instagram.gif" style={{ maxWidth: '40px', minWidth: '30px' }} alt="" />
                             <a href="https://www.instagram.com/ahmetf_syn">@ahmetf_syn</a>
                         </p>
                         <p className="text-start">
-                            <img src="/img/linkedin.gif" style={{ maxWidth: '40px', minWidth: '30px' }} alt="" />
+                            <img src="/src/assets/img/linkedin.gif" style={{ maxWidth: '40px', minWidth: '30px' }} alt="" />
                             <a href="https://www.linkedin.com/in/ahmetfsayan/" >@ahmetfsayan</a>
                         </p>
                     </div>
