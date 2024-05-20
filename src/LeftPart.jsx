@@ -57,7 +57,7 @@ function LeftPart() {
                     <div className="container m-1" style={{ width: '200px' }}>
 
                         <a data-bs-toggle="modal" data-bs-target="#exampleModal">
-                            <img src="assets/2.jpg" className="img-fluid img-hover rounded-circle" style={{ border: '#061A40 solid 3px' }} alt="" />
+                            <img src="./assets/2.jpg" className="img-fluid img-hover rounded-circle" style={{ border: '#061A40 solid 3px' }} alt="" />
                         </a>
 
                     </div>
@@ -66,15 +66,15 @@ function LeftPart() {
                     </div>
                     <div className="container p-4 fs-5" id="myLinksContainer">
                         <p className="text-start">
-                            <img src="./assets/graduate.gif" style={{ maxWidth: '40px', minWidth: '30px' }} alt="" />
+                            <img src="./assets/img/graduate.gif" style={{ maxWidth: '40px', minWidth: '30px' }} alt="" />
                             <span>Bartın University(Computer Engineering)</span>
                         </p>
                         <p className="text-start">
-                            <img src="/src/assets/img/calendar.gif" style={{ maxWidth: '40px', minWidth: '30px' }} alt="" />
+                            <img src="assets/img/calendar.gif" style={{ maxWidth: '40px', minWidth: '30px' }} alt="" />
                             <span>{calculateAge()} Years Old</span>
                         </p>
                         <p className="text-start">
-                            <img src="/src/assets/img/mail.gif" style={{ maxWidth: '40px', minWidth: '30px' }} alt="" />
+                            <img src="assets/mail.gif" style={{ maxWidth: '40px', minWidth: '30px' }} alt="" />
                             <a href="mailto:ahmet_furkan_sayan@hotmail.com">Contact Me</a>
                         </p>
                         <p className="text-start">
