@@ -33,7 +33,7 @@ function RightPart() {
                     {/* Icons Container */}
                     <div className="container">
                         <div className="row justify-content-center ms-auto">
-                            <img src="/src/assets/img/js.png" className="pt-3 img-hover" style={{ maxWidth: '75px', minWidth: '50px' }} alt="" />
+                            <img src=".." className="pt-3 img-hover" style={{ maxWidth: '75px', minWidth: '50px' }} alt="" />
                             <img src="/src/assets/img/java.png" className="pt-3 img-hover" style={{ maxWidth: '75px', minWidth: '50px' }} alt="" />
                             <img src="/src/assets/img/html.png" className="pt-3 img-hover" style={{ maxWidth: '75px', minWidth: '50px' }} alt="" />
                             <img src="/src/assets/img/css.png" className="pt-3 img-hover" style={{ maxWidth: '75px', minWidth: '50px' }} alt="" />
