@@ -66,7 +66,7 @@ function LeftPart() {
                     </div>
                     <div className="container p-4 fs-5" id="myLinksContainer">
                         <p className="text-start">
-                            <img src="./assets/img/graduate.gif" style={{ maxWidth: '40px', minWidth: '30px' }} alt="" />
+                            <img src="src/assets/img/graduate.gif" style={{ maxWidth: '40px', minWidth: '30px' }} alt="" />
                             <span>Bartın University(Computer Engineering)</span>
                         </p>
                         <p className="text-start">
@@ -74,11 +74,11 @@ function LeftPart() {
                             <span>{calculateAge()} Years Old</span>
                         </p>
                         <p className="text-start">
-                            <img src="assets/mail.gif" style={{ maxWidth: '40px', minWidth: '30px' }} alt="" />
+                            <img src="src/assets/mail.gif" style={{ maxWidth: '40px', minWidth: '30px' }} alt="" />
                             <a href="mailto:ahmet_furkan_sayan@hotmail.com">Contact Me</a>
                         </p>
                         <p className="text-start">
-                            <img src="/src/assets/img/github.gif" style={{ maxWidth: '40px', minWidth: '30px' }} alt="" />
+                            <img src="./src/assets/img/github.gif" style={{ maxWidth: '40px', minWidth: '30px' }} alt="" />
                             <a href="https://www.instagram.com/ahmetf_syn">@ImeraFera</a>
                         </p>
                         <p className="text-start">
