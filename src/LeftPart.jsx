@@ -57,7 +57,7 @@ function LeftPart() {
                     <div className="container m-1" style={{ width: '200px' }}>
 
                         <a data-bs-toggle="modal" data-bs-target="#exampleModal">
-                            <img src="/src/assets/img/2.jpg" className="img-fluid img-hover rounded-circle" style={{ border: '#061A40 solid 3px' }} alt="" />
+                            <img src="assets/2.jpg" className="img-fluid img-hover rounded-circle" style={{ border: '#061A40 solid 3px' }} alt="" />
                         </a>
 
                     </div>
