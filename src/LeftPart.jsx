@@ -86,7 +86,7 @@ function LeftPart() {
                             <a href="https://www.instagram.com/ahmetf_syn">@ahmetf_syn</a>
                         </p>
                         <p className="text-start">
-                            <img src="/src/assets/img/linkedin.gif" style={{ maxWidth: '40px', minWidth: '30px' }} alt="" />
+                            <img src="src/assets/linkedin.gif" style={{ maxWidth: '40px', minWidth: '30px' }} alt="" />
                             <a href="https://www.linkedin.com/in/ahmetfsayan/" >@ahmetfsayan</a>
                         </p>
                     </div>

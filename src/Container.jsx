@@ -1,7 +1,7 @@
 import React from 'react'
 import LeftPart from './LeftPart'
 import RightPart from './RightPart'
-import './assets/index.css'
+import 'css/index.css'
 
 function Container() {
 
