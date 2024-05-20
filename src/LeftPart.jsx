@@ -66,7 +66,7 @@ function LeftPart() {
                     </div>
                     <div className="container p-4 fs-5" id="myLinksContainer">
                         <p className="text-start">
-                            <img src="/src/assets/img/graduate.gif" style={{ maxWidth: '40px', minWidth: '30px' }} alt="" />
+                            <img src="./assets/graduate.gif" style={{ maxWidth: '40px', minWidth: '30px' }} alt="" />
                             <span>Bartın University(Computer Engineering)</span>
                         </p>
                         <p className="text-start">
